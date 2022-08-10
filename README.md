@@ -1,2 +1,10 @@
-# react-gamestore
-React/Router/Redux
+# Sneaker Shop
+
+## Tech Stack:
+
+- React
+- Router
+- Redux
+- React Icons
+- SCSS
+- CSS-modules
