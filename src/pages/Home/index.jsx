@@ -12,7 +12,7 @@ export default function Home() {
       <h2>All sneakers</h2>
       <div className={style.content}>
         {data.map((obj) => (
-          <Card key={obj.id} {...obj} />
+          <Card key={obj.id} item={obj} />
         ))}
       </div>
     </div>

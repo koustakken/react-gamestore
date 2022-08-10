@@ -4,7 +4,7 @@
 
 - React
 - Router
-- Redux
+- Redux(Redux Toolkit)
 - React Icons
 - SCSS
 - CSS-modules
