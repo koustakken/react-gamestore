@@ -7,8 +7,16 @@
     text-transform: uppercase;
   }
 }
+.side {
+  display: flex;
+  align-items: center;
+}
 .cart {
   position: relative;
+}
+.favorite {
+  position: relative;
+  margin-right: 15px;
 }
 .count {
   position: absolute;
