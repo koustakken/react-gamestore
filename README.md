@@ -3,8 +3,8 @@
 ## Tech Stack:
 
 - React
-- Router
-- Redux(Redux Toolkit)
+- Router v6
+- Redux Toolkit
 - React Icons
 - SCSS
 - CSS-modules

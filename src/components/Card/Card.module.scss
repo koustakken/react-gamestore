@@ -1,6 +1,11 @@
 .root {
   position: relative;
   margin: 10px;
+  -webkit-box-shadow: 4px 4px 26px 0px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 4px 4px 26px 0px rgba(34, 60, 80, 0.2);
+  box-shadow: 4px 4px 26px 0px rgba(34, 60, 80, 0.2);
+  border-radius: 10px;
+  text-align: center;
   svg {
     position: absolute;
     top: 40px;
@@ -10,6 +15,7 @@
   img {
     width: 220px;
     height: 220px;
+    cursor: pointer;
   }
   h4,
   h5 {

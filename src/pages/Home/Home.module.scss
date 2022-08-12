@@ -1,6 +1,15 @@
 .root {
   padding: 40px;
+  .sort {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    .right {
+      display: flex;
+    }
+  }
   .content {
+    margin-top: 20px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
